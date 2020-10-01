@@ -1,5 +1,5 @@
 # git-puns
-Git puns/jokes. Some referencing to bollywood dialogues and movie titles.
+Some good Git puns/jokes with some referencing to bollywood dialogues and movie titles.
 
 ## Contributors
 
